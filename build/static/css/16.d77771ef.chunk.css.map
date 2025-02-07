@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Engine/index.css"],"names":[],"mappings":"AAAA,OACE,QAAS,CACT,MAAO,CACP,iBAAkB,CAClB,OAAQ,CACR,KAAM,CACN,WACF","file":"16.d77771ef.chunk.css","sourcesContent":[".world {\n  bottom: 0;\n  left: 0;\n  position: absolute;\n  right: 0;\n  top: 0;\n  width: 100vw;\n}\n"]}
